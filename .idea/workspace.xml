@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39d4de35-30c7-4dbf-bcc5-b8aee654ff2c" name="Changes" comment="" />
+    <list default="true" id="39d4de35-30c7-4dbf-bcc5-b8aee654ff2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/js/todoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/todoItemView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/todoItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/todoItemsView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2DZTHl8zGeQ3jXiiPM4aufbW43p" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "//wsl$/Ubuntu-20.04/home/luisangel2895/courses/coffee-script",
+    "last_opened_file_path": "//wsl$/Ubuntu-20.04/home/luisangel2895/courses/backbone",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660905523705</updated>
       <workItem from="1660905525131" duration="1148000" />
+      <workItem from="1660908125210" duration="4110000" />
     </task>
     <servers />
   </component>
