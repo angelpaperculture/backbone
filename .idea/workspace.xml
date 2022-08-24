@@ -5,18 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39d4de35-30c7-4dbf-bcc5-b8aee654ff2c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/js/todoItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/todoItemView.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/todoItems.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/todoItemsView.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/todoItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/todoItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/todoItemView.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/todoItemView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/todoItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/todoItems.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/todoItemsView.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/todoItemsView.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,8 +31,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2DZTHl8zGeQ3jXiiPM4aufbW43p" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,7 +56,12 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "ruby.rails.projectView.checked": "true",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,7 +73,12 @@
       <option name="presentableId" value="Default" />
       <updated>1660905523705</updated>
       <workItem from="1660905525131" duration="1148000" />
-      <workItem from="1660908125210" duration="4110000" />
+      <workItem from="1660908125210" duration="5085000" />
+      <workItem from="1661159833232" duration="2427000" />
+      <workItem from="1661236472403" duration="12044000" />
+      <workItem from="1661291308654" duration="586000" />
+      <workItem from="1661310792465" duration="1000" />
+      <workItem from="1661310849135" duration="1872000" />
     </task>
     <servers />
   </component>
